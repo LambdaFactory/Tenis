@@ -1,0 +1,5 @@
+source https://api.nuget.org/v3/index.json
+
+nuget Argu
+nuget FSharp.Core
+nuget Saturn >= 0.6.0
